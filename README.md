@@ -1,2 +1,5 @@
-# QUICKBITE
-online food delivery website - react 
+NAMASTE REACT 
+
+#Redux Toolkit
+- Install Toolkit 
+
